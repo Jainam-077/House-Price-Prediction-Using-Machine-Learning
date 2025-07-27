@@ -1,18 +1,22 @@
-🏠 House Price Prediction using ML
--A mini project to predict house prices using machine learning regression models.
+# 🏠 House Price Prediction using Machine Learning
 
-🔧 Tech Stack
--Python
--Pandas, NumPy
--Scikit-learn
--Matplotlib, Seaborn
+This mini project predicts house prices using various regression models based on features like number of rooms, area, location, etc.
 
-📂 Workflow
--Data Cleaning & Preprocessing
--Feature Engineering
--Model Training (Linear Regression, Random Forest, XGBoost)
--Evaluation
--Result Visualization
+## 🔧 Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
 
-📈 Output
-Predicts house price based on input features like area, rooms, location, etc.
+## 📂 Project Workflow
+1. Data Cleaning & Preprocessing
+2. Feature Engineering
+3. Model Training (Linear Regression, Random Forest, XGBoost)
+4. Evaluation using MAE, RMSE, and R² Score
+5. Visualization of results
+
+## 📈 Output
+The trained model can predict the house price based on input property features.
+
+## 🚀 Goal
+To understand regression-based ML models and apply them to real-world price prediction tasks.
